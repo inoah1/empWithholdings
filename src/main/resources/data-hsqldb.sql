@@ -1,0 +1,5 @@
+INSERT INTO withholding VALUES (11111, 30.00, 6.00, 0.0);
+INSERT INTO withholding VALUES (22222, 20.00, 5.00, 0.0);
+INSERT INTO withholding VALUES (33333, 15.00, 3.00, 0.0);
+INSERT INTO withholding VALUES (44444, 10.00, 2.00, 0.0);
+INSERT INTO withholding VALUES (55555, 3.00, 1.00, 0.0);
